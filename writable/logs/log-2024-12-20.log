@@ -1,0 +1,310 @@
+INFO - 2024-12-20 09:31:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-20 09:31:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-20 09:33:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-20 09:33:26 --> CSRF token verified.
+INFO - 2024-12-20 09:33:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-20 09:33:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-20 09:38:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-20 09:38:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-20 09:38:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-20 09:54:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-20 10:11:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-20 10:15:28 --> Undefined variable: urunlistesi
+in APPPATH\Views\sayfalar\urunlerimiz.php on line 9.
+ 1 APPPATH\Views\sayfalar\urunlerimiz.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: urunlistesi', 'C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php', 9, [...])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/urunlerimiz', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(154): view('sayfalar/urunlerimiz')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->urunlerimiz()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-20 10:16:19 --> Undefined variable: urunlistesi
+in APPPATH\Views\sayfalar\urunlerimiz.php on line 9.
+ 1 APPPATH\Views\sayfalar\urunlerimiz.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: urunlistesi', 'C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php', 9, [...])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/urunlerimiz', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(154): view('sayfalar/urunlerimiz')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->urunlerimiz()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-20 10:16:21 --> Undefined variable: urunlistesi
+in APPPATH\Views\sayfalar\urunlerimiz.php on line 9.
+ 1 APPPATH\Views\sayfalar\urunlerimiz.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: urunlistesi', 'C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php', 9, [...])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/urunlerimiz', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(154): view('sayfalar/urunlerimiz')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->urunlerimiz()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-20 10:34:29 --> Undefined variable: urun
+in APPPATH\Views\sayfalar\urunlerimiz.php on line 30.
+ 1 APPPATH\Views\sayfalar\urunlerimiz.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: urun', 'C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php', 30, [...])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/urunlerimiz', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(154): view('sayfalar/urunlerimiz')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->urunlerimiz()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-20 10:35:20 --> Undefined variable: urun
+in APPPATH\Views\sayfalar\urunlerimiz.php on line 30.
+ 1 APPPATH\Views\sayfalar\urunlerimiz.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: urun', 'C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php', 30, [...])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/urunlerimiz', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(154): view('sayfalar/urunlerimiz')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->urunlerimiz()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-20 10:35:46 --> Undefined index: urunid
+in APPPATH\Views\sayfalar\urunlerimiz.php on line 30.
+ 1 APPPATH\Views\sayfalar\urunlerimiz.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: urunid', 'C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php', 30, [...])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/urunlerimiz', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(154): view('sayfalar/urunlerimiz')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->urunlerimiz()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-20 10:35:48 --> Undefined index: urunid
+in APPPATH\Views\sayfalar\urunlerimiz.php on line 30.
+ 1 APPPATH\Views\sayfalar\urunlerimiz.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: urunid', 'C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php', 30, [...])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/urunlerimiz', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(154): view('sayfalar/urunlerimiz')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->urunlerimiz()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-20 10:36:25 --> Undefined index: id
+in APPPATH\Views\sayfalar\urunlerimiz.php on line 30.
+ 1 APPPATH\Views\sayfalar\urunlerimiz.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: id', 'C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php', 30, [...])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/urunlerimiz', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(154): view('sayfalar/urunlerimiz')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->urunlerimiz()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-20 10:36:48 --> Undefined index: id
+in APPPATH\Views\sayfalar\urunlerimiz.php on line 30.
+ 1 APPPATH\Views\sayfalar\urunlerimiz.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: id', 'C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php', 30, [...])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/urunlerimiz', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(154): view('sayfalar/urunlerimiz')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->urunlerimiz()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-20 10:36:51 --> Undefined index: id
+in APPPATH\Views\sayfalar\urunlerimiz.php on line 30.
+ 1 APPPATH\Views\sayfalar\urunlerimiz.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: id', 'C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php', 30, [...])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/urunlerimiz', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(154): view('sayfalar/urunlerimiz')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->urunlerimiz()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-20 10:38:24 --> Undefined index: id
+in APPPATH\Views\sayfalar\urunlerimiz.php on line 30.
+ 1 APPPATH\Views\sayfalar\urunlerimiz.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: id', 'C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php', 30, [...])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/urunlerimiz', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(154): view('sayfalar/urunlerimiz')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->urunlerimiz()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-20 10:38:26 --> Undefined index: id
+in APPPATH\Views\sayfalar\urunlerimiz.php on line 30.
+ 1 APPPATH\Views\sayfalar\urunlerimiz.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: id', 'C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php', 30, [...])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/urunlerimiz', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(154): view('sayfalar/urunlerimiz')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->urunlerimiz()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-20 10:55:16 --> Undefined index: id
+in APPPATH\Views\sayfalar\urunlerimiz.php on line 30.
+ 1 APPPATH\Views\sayfalar\urunlerimiz.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: id', 'C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php', 30, [...])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/urunlerimiz', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(154): view('sayfalar/urunlerimiz')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->urunlerimiz()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-20 11:01:18 --> Undefined property: CodeIgniter\View\View::$cart
+in APPPATH\Views\tema\header.php on line 43.
+ 1 APPPATH\Views\tema\header.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: CodeIgniter\\View\\View::$cart', 'C:\\wamp64\\www\\code\\app\\Views\\tema\\header.php', 43, [...])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\wamp64\\www\\code\\app\\Views\\tema\\header.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('tema/header', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(154): view('tema/header', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->urunlerimiz()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-20 11:03:07 --> Undefined property: CodeIgniter\View\View::$cart
+in APPPATH\Views\tema\header.php on line 45.
+ 1 APPPATH\Views\tema\header.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: CodeIgniter\\View\\View::$cart', 'C:\\wamp64\\www\\code\\app\\Views\\tema\\header.php', 45, [...])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\wamp64\\www\\code\\app\\Views\\tema\\header.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('tema/header', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(154): view('tema/header', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->urunlerimiz()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-20 11:08:24 --> Undefined property: CodeIgniter\View\View::$cart
+in APPPATH\Views\tema\header.php on line 45.
+ 1 APPPATH\Views\tema\header.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: CodeIgniter\\View\\View::$cart', 'C:\\wamp64\\www\\code\\app\\Views\\tema\\header.php', 45, [...])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\wamp64\\www\\code\\app\\Views\\tema\\header.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('tema/header', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(154): view('tema/header', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->urunlerimiz()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-20 11:15:02 --> Undefined property: CodeIgniter\View\View::$cart
+in APPPATH\Views\tema\header.php on line 45.
+ 1 APPPATH\Views\tema\header.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: CodeIgniter\\View\\View::$cart', 'C:\\wamp64\\www\\code\\app\\Views\\tema\\header.php', 45, [...])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\wamp64\\www\\code\\app\\Views\\tema\\header.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('tema/header', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(154): view('tema/header', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->urunlerimiz()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-12-20 11:21:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-20 11:22:14 --> Undefined property: App\Controllers\Anasayfa::$common_model
+in APPPATH\Controllers\Anasayfa.php on line 237.
+ 1 APPPATH\Controllers\Anasayfa.php(237): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Anasayfa::$common_model', 'C:\\wamp64\\www\\code\\app\\Controllers\\Anasayfa.php', 237, [])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->sepet()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-20 11:24:32 --> Undefined property: App\Controllers\Anasayfa::$common_model
+in APPPATH\Controllers\Anasayfa.php on line 237.
+ 1 APPPATH\Controllers\Anasayfa.php(237): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Anasayfa::$common_model', 'C:\\wamp64\\www\\code\\app\\Controllers\\Anasayfa.php', 237, [])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->sepet()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-20 11:42:36 --> Undefined property: App\Controllers\Anasayfa::$common_model
+in APPPATH\Controllers\Anasayfa.php on line 238.
+ 1 APPPATH\Controllers\Anasayfa.php(238): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Anasayfa::$common_model', 'C:\\wamp64\\www\\code\\app\\Controllers\\Anasayfa.php', 238, [])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->sepet()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-20 11:43:35 --> Undefined property: App\Controllers\Anasayfa::$common_model
+in APPPATH\Controllers\Anasayfa.php on line 238.
+ 1 APPPATH\Controllers\Anasayfa.php(238): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Anasayfa::$common_model', 'C:\\wamp64\\www\\code\\app\\Controllers\\Anasayfa.php', 238, [])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->sepet()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-20 11:47:52 --> Undefined property: App\Controllers\Anasayfa::$common_model
+in APPPATH\Controllers\Anasayfa.php on line 238.
+ 1 APPPATH\Controllers\Anasayfa.php(238): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Anasayfa::$common_model', 'C:\\wamp64\\www\\code\\app\\Controllers\\Anasayfa.php', 238, [])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->sepet()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-20 11:48:43 --> Undefined property: App\Controllers\Anasayfa::$common_model
+in APPPATH\Controllers\Anasayfa.php on line 238.
+ 1 APPPATH\Controllers\Anasayfa.php(238): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Anasayfa::$common_model', 'C:\\wamp64\\www\\code\\app\\Controllers\\Anasayfa.php', 238, [])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->sepet()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-12-20 11:48:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-20 11:48:46 --> Undefined property: CodeIgniter\View\View::$cart
+in APPPATH\Views\tema\header.php on line 45.
+ 1 APPPATH\Views\tema\header.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: CodeIgniter\\View\\View::$cart', 'C:\\wamp64\\www\\code\\app\\Views\\tema\\header.php', 45, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\wamp64\\www\\code\\app\\Views\\tema\\header.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('tema/header', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(18): view('tema/header')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-20 11:53:10 --> Class 'CI_Model' not found
+in APPPATH\Models\Common_model.php on line 4.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\code\\app\\Models\\Common_model.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Common_model')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Common_model')
+ 5 APPPATH\Controllers\Anasayfa.php(15): spl_autoload_call('App\\Models\\Common_model')
+ 6 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Anasayfa->__construct()
+ 7 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-20 11:53:16 --> Class 'CI_Model' not found
+in APPPATH\Models\Common_model.php on line 4.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\code\\app\\Models\\Common_model.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Common_model')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Common_model')
+ 5 APPPATH\Controllers\Anasayfa.php(15): spl_autoload_call('App\\Models\\Common_model')
+ 6 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Anasayfa->__construct()
+ 7 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-20 11:55:44 --> Undefined property: App\Controllers\Anasayfa::$load
+in APPPATH\Controllers\Anasayfa.php on line 251.
+ 1 APPPATH\Controllers\Anasayfa.php(251): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Anasayfa::$load', 'C:\\wamp64\\www\\code\\app\\Controllers\\Anasayfa.php', 251, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->sepet()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-20 11:55:54 --> Call to undefined method App\Models\Common_model::urunler
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\Anasayfa.php(21): CodeIgniter\Model->__call('urunler', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->index()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-20 11:56:43 --> Call to undefined method App\Models\Common_model::urunler
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\Anasayfa.php(21): CodeIgniter\Model->__call('urunler', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->index()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-20 12:02:09 --> Call to undefined method App\Models\Common_model::urunler
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\Anasayfa.php(21): CodeIgniter\Model->__call('urunler', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->index()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-20 12:06:22 --> Call to undefined method App\Models\Common_model::urunler
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\Anasayfa.php(21): CodeIgniter\Model->__call('urunler', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->index()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

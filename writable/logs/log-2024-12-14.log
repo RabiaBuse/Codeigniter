@@ -1,0 +1,542 @@
+INFO - 2024-12-14 11:57:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 11:58:34 --> CSRF token verified.
+INFO - 2024-12-14 11:58:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 11:58:53 --> CSRF token verified.
+INFO - 2024-12-14 11:58:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 11:59:18 --> CSRF token verified.
+INFO - 2024-12-14 11:59:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 12:01:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 12:01:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 12:01:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 12:01:18 --> CSRF token verified.
+INFO - 2024-12-14 12:01:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 12:01:44 --> CSRF token verified.
+INFO - 2024-12-14 12:01:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-14 12:02:04 --> The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 298.
+ 1 SYSTEMPATH\Security\Security.php(298): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(55): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(182): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('login', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-12-14 12:02:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 12:02:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 12:02:25 --> CSRF token verified.
+INFO - 2024-12-14 12:02:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 12:03:30 --> CSRF token verified.
+INFO - 2024-12-14 12:03:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 12:03:42 --> CSRF token verified.
+INFO - 2024-12-14 12:03:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-14 12:05:39 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 141.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('1')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:07:30 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 141.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('1')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:07:31 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 141.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('1')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:07:31 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 141.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('1')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:07:31 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 141.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('1')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:07:31 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 141.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('1')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:07:32 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 141.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('1')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:07:32 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 141.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('1')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:07:32 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 141.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('1')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:08:15 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 140.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('1')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:08:15 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 140.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('1')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:08:15 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 140.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('1')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:08:16 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 140.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('1')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:08:16 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 140.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('1')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:08:16 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 140.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('1')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-12-14 12:16:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 12:16:22 --> CSRF token verified.
+INFO - 2024-12-14 12:16:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 12:17:21 --> CSRF token verified.
+INFO - 2024-12-14 12:17:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 12:18:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 12:18:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 12:18:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 12:18:52 --> CSRF token verified.
+INFO - 2024-12-14 12:18:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-14 12:19:03 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 140.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('1')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:19:11 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 140.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('2')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:29:09 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 140.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('2')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:29:45 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 140.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('2')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:29:46 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 140.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('2')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:30:09 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 155.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('2')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:30:09 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 155.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('2')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:30:09 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 155.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('2')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:30:10 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 155.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('2')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:30:10 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 155.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('2')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:30:10 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 155.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('2')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:30:10 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 155.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('2')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:41:28 --> Undefined variable: client
+in APPPATH\Controllers\Anasayfa.php on line 155.
+ 1 APPPATH\Controllers\Anasayfa.php(155): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: client', 'C:\\wamp64\\www\\code\\app\\Controllers\\Anasayfa.php', 155, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('2')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:47:14 --> Undefined variable: client
+in APPPATH\Controllers\Anasayfa.php on line 155.
+ 1 APPPATH\Controllers\Anasayfa.php(155): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: client', 'C:\\wamp64\\www\\code\\app\\Controllers\\Anasayfa.php', 155, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('2')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:47:29 --> Undefined variable: client
+in APPPATH\Controllers\Anasayfa.php on line 155.
+ 1 APPPATH\Controllers\Anasayfa.php(155): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: client', 'C:\\wamp64\\www\\code\\app\\Controllers\\Anasayfa.php', 155, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('2')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:47:43 --> Undefined variable: client
+in APPPATH\Controllers\Anasayfa.php on line 145.
+ 1 APPPATH\Controllers\Anasayfa.php(145): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: client', 'C:\\wamp64\\www\\code\\app\\Controllers\\Anasayfa.php', 145, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('1')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:48:58 --> Undefined variable: client
+in APPPATH\Controllers\Anasayfa.php on line 145.
+ 1 APPPATH\Controllers\Anasayfa.php(145): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: client', 'C:\\wamp64\\www\\code\\app\\Controllers\\Anasayfa.php', 145, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('1')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:53:14 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 140.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('2')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:53:15 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 140.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('2')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-12-14 12:55:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 12:55:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 12:55:36 --> CSRF token verified.
+INFO - 2024-12-14 12:55:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 12:55:50 --> CSRF token verified.
+INFO - 2024-12-14 12:55:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 12:56:07 --> CSRF token verified.
+INFO - 2024-12-14 12:56:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 12:56:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 12:56:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 12:57:05 --> CSRF token verified.
+INFO - 2024-12-14 12:57:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-14 12:58:26 --> Undefined variable: client
+in APPPATH\Controllers\Anasayfa.php on line 155.
+ 1 APPPATH\Controllers\Anasayfa.php(155): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: client', 'C:\\wamp64\\www\\code\\app\\Controllers\\Anasayfa.php', 155, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->deneme('2')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 12:58:27 --> Undefined variable: client
+in APPPATH\Controllers\Anasayfa.php on line 155.
+ 1 APPPATH\Controllers\Anasayfa.php(155): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: client', 'C:\\wamp64\\www\\code\\app\\Controllers\\Anasayfa.php', 155, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->deneme('2')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 13:00:16 --> Class 'App\Controllers\MongoDB\Client' not found
+in APPPATH\Controllers\Anasayfa.php on line 140.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->deneme('2')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 13:03:58 --> No suitable servers found (`serverSelectionTryOnce` set): [Failed to resolve 'cluster0-shard-00-01.vgcht.mongodb.net']
+in VENDORPATH\mongodb\mongodb\src\functions.php on line 487.
+ 1 VENDORPATH\mongodb\mongodb\src\functions.php(487): MongoDB\Driver\Manager->selectServer(Object(MongoDB\Driver\ReadPreference))
+ 2 VENDORPATH\mongodb\mongodb\src\Collection.php(909): MongoDB\select_server(Object(MongoDB\Driver\Manager), [...])
+ 3 APPPATH\Controllers\Anasayfa.php(159): MongoDB\Collection->insertMany([...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->deneme('2')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 13:03:59 --> No suitable servers found (`serverSelectionTryOnce` set): [Failed to resolve 'cluster0-shard-00-02.vgcht.mongodb.net'] [Failed to resolve 'cluster0-shard-00-01.vgcht.mongodb.net']
+in VENDORPATH\mongodb\mongodb\src\functions.php on line 487.
+ 1 VENDORPATH\mongodb\mongodb\src\functions.php(487): MongoDB\Driver\Manager->selectServer(Object(MongoDB\Driver\ReadPreference))
+ 2 VENDORPATH\mongodb\mongodb\src\Collection.php(909): MongoDB\select_server(Object(MongoDB\Driver\Manager), [...])
+ 3 APPPATH\Controllers\Anasayfa.php(159): MongoDB\Collection->insertMany([...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->deneme('2')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 13:03:59 --> Bulk write failed due to previous MongoDB\Driver\Exception\AuthenticationException: bad auth : Authentication failed.
+in VENDORPATH\mongodb\mongodb\src\Operation\InsertMany.php on line 165.
+ 1 VENDORPATH\mongodb\mongodb\src\Operation\InsertMany.php(165): MongoDB\Driver\Server->executeBulkWrite('test.product', Object(MongoDB\Driver\BulkWrite), [])
+ 2 VENDORPATH\mongodb\mongodb\src\Collection.php(911): MongoDB\Operation\InsertMany->execute(Object(MongoDB\Driver\Server))
+ 3 APPPATH\Controllers\Anasayfa.php(159): MongoDB\Collection->insertMany([...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->deneme('2')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 13:06:03 --> Bulk write failed due to previous MongoDB\Driver\Exception\AuthenticationException: bad auth : Authentication failed.
+in VENDORPATH\mongodb\mongodb\src\Operation\InsertMany.php on line 165.
+ 1 VENDORPATH\mongodb\mongodb\src\Operation\InsertMany.php(165): MongoDB\Driver\Server->executeBulkWrite('test.product', Object(MongoDB\Driver\BulkWrite), [])
+ 2 VENDORPATH\mongodb\mongodb\src\Collection.php(911): MongoDB\Operation\InsertMany->execute(Object(MongoDB\Driver\Server))
+ 3 APPPATH\Controllers\Anasayfa.php(160): MongoDB\Collection->insertMany([...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->deneme('2')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 13:06:05 --> Bulk write failed due to previous MongoDB\Driver\Exception\AuthenticationException: bad auth : Authentication failed.
+in VENDORPATH\mongodb\mongodb\src\Operation\InsertMany.php on line 165.
+ 1 VENDORPATH\mongodb\mongodb\src\Operation\InsertMany.php(165): MongoDB\Driver\Server->executeBulkWrite('test.product', Object(MongoDB\Driver\BulkWrite), [])
+ 2 VENDORPATH\mongodb\mongodb\src\Collection.php(911): MongoDB\Operation\InsertMany->execute(Object(MongoDB\Driver\Server))
+ 3 APPPATH\Controllers\Anasayfa.php(160): MongoDB\Collection->insertMany([...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->deneme('2')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 13:06:12 --> Bulk write failed due to previous MongoDB\Driver\Exception\AuthenticationException: bad auth : Authentication failed.
+in VENDORPATH\mongodb\mongodb\src\Operation\InsertMany.php on line 165.
+ 1 VENDORPATH\mongodb\mongodb\src\Operation\InsertMany.php(165): MongoDB\Driver\Server->executeBulkWrite('test.product', Object(MongoDB\Driver\BulkWrite), [])
+ 2 VENDORPATH\mongodb\mongodb\src\Collection.php(911): MongoDB\Operation\InsertMany->execute(Object(MongoDB\Driver\Server))
+ 3 APPPATH\Controllers\Anasayfa.php(160): MongoDB\Collection->insertMany([...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->deneme('2')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 13:13:31 --> Failed to look up SRV record "_mongodb._tcp.cluster0.vgcht.mongodb.net": Zaman aşımı süresi sona erdiğinden bu işlem geri çevrildi.
+
+in VENDORPATH\mongodb\mongodb\src\functions.php on line 487.
+ 1 VENDORPATH\mongodb\mongodb\src\functions.php(487): MongoDB\Driver\Manager->selectServer(Object(MongoDB\Driver\ReadPreference))
+ 2 VENDORPATH\mongodb\mongodb\src\Collection.php(687): MongoDB\select_server(Object(MongoDB\Driver\Manager), [...])
+ 3 APPPATH\Controllers\Anasayfa.php(147): MongoDB\Collection->findOne([...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('1')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 13:13:31 --> Failed to look up SRV record "_mongodb._tcp.cluster0.vgcht.mongodb.net": Zaman aşımı süresi sona erdiğinden bu işlem geri çevrildi.
+
+in VENDORPATH\mongodb\mongodb\src\functions.php on line 487.
+ 1 VENDORPATH\mongodb\mongodb\src\functions.php(487): MongoDB\Driver\Manager->selectServer(Object(MongoDB\Driver\ReadPreference))
+ 2 VENDORPATH\mongodb\mongodb\src\Collection.php(687): MongoDB\select_server(Object(MongoDB\Driver\Manager), [...])
+ 3 APPPATH\Controllers\Anasayfa.php(147): MongoDB\Collection->findOne([...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('1')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 13:14:55 --> Failed to look up SRV record "_mongodb._tcp.cluster0.vgcht.mongodb.net": Zaman aşımı süresi sona erdiğinden bu işlem geri çevrildi.
+
+in VENDORPATH\mongodb\mongodb\src\functions.php on line 487.
+ 1 VENDORPATH\mongodb\mongodb\src\functions.php(487): MongoDB\Driver\Manager->selectServer(Object(MongoDB\Driver\ReadPreference))
+ 2 VENDORPATH\mongodb\mongodb\src\Collection.php(909): MongoDB\select_server(Object(MongoDB\Driver\Manager), [...])
+ 3 APPPATH\Controllers\Anasayfa.php(159): MongoDB\Collection->insertMany([...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('2')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 13:19:15 --> Failed to look up SRV record "_mongodb._tcp.cluster0.vgcht.mongodb.net": Zaman aşımı süresi sona erdiğinden bu işlem geri çevrildi.
+
+in VENDORPATH\mongodb\mongodb\src\functions.php on line 487.
+ 1 VENDORPATH\mongodb\mongodb\src\functions.php(487): MongoDB\Driver\Manager->selectServer(Object(MongoDB\Driver\ReadPreference))
+ 2 VENDORPATH\mongodb\mongodb\src\Collection.php(336): MongoDB\select_server(Object(MongoDB\Driver\Manager), [...])
+ 3 APPPATH\Controllers\Anasayfa.php(193): MongoDB\Collection->countDocuments([...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('5')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 13:26:46 --> Call to undefined function urunleriGoster()
+in APPPATH\Views\sayfalar\urunlerimiz.php on line 4.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/urunlerimiz', [], true)
+ 4 APPPATH\Controllers\Anasayfa.php(130): view('sayfalar/urunlerimiz')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->urunlerimiz()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-12-14 16:54:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-14 16:57:26 --> Call to undefined function urunleriGoster()
+in APPPATH\Views\sayfalar\urunlerimiz.php on line 4.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/urunlerimiz', [], true)
+ 4 APPPATH\Controllers\Anasayfa.php(130): view('sayfalar/urunlerimiz')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->urunlerimiz()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-12-14 17:03:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:03:21 --> CSRF token verified.
+INFO - 2024-12-14 17:03:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:03:21 --> CSRF token verified.
+INFO - 2024-12-14 17:03:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:07:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:07:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:08:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:08:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:08:10 --> CSRF token verified.
+INFO - 2024-12-14 17:08:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:10:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:10:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:10:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:10:49 --> CSRF token verified.
+INFO - 2024-12-14 17:10:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:16:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:16:56 --> CSRF token verified.
+INFO - 2024-12-14 17:16:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:17:10 --> CSRF token verified.
+INFO - 2024-12-14 17:17:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:28:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:28:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:28:11 --> CSRF token verified.
+INFO - 2024-12-14 17:28:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:29:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:29:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:29:33 --> CSRF token verified.
+INFO - 2024-12-14 17:29:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:30:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:30:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:32:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:32:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:32:11 --> CSRF token verified.
+INFO - 2024-12-14 17:32:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:32:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:32:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:32:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:32:24 --> CSRF token verified.
+INFO - 2024-12-14 17:32:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:32:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:32:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:32:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:32:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:32:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:37:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:37:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:38:06 --> CSRF token verified.
+INFO - 2024-12-14 17:38:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:38:14 --> CSRF token verified.
+INFO - 2024-12-14 17:38:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:38:22 --> CSRF token verified.
+INFO - 2024-12-14 17:38:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:38:32 --> CSRF token verified.
+INFO - 2024-12-14 17:38:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:38:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:39:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:39:11 --> CSRF token verified.
+INFO - 2024-12-14 17:39:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:39:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:39:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:39:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:39:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:39:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:39:56 --> CSRF token verified.
+INFO - 2024-12-14 17:39:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:39:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:40:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:40:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:40:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:40:39 --> CSRF token verified.
+INFO - 2024-12-14 17:40:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-14 17:40:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-14 17:49:31 --> Undefined variable: products
+in APPPATH\Views\sayfalar\urunlerimiz.php on line 2.
+ 1 APPPATH\Views\sayfalar\urunlerimiz.php(2): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: products', 'C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php', 2, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/urunlerimiz', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(129): view('sayfalar/urunlerimiz')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->urunlerimiz()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 17:51:35 --> Undefined variable: products
+in APPPATH\Views\sayfalar\urunlerimiz.php on line 2.
+ 1 APPPATH\Views\sayfalar\urunlerimiz.php(2): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: products', 'C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php', 2, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/urunlerimiz', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(129): view('sayfalar/urunlerimiz')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->urunlerimiz()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 17:51:36 --> Undefined variable: products
+in APPPATH\Views\sayfalar\urunlerimiz.php on line 2.
+ 1 APPPATH\Views\sayfalar\urunlerimiz.php(2): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: products', 'C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php', 2, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/urunlerimiz', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(129): view('sayfalar/urunlerimiz')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->urunlerimiz()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 17:52:17 --> Undefined variable: urunlerimiz
+in APPPATH\Views\sayfalar\urunlerimiz.php on line 2.
+ 1 APPPATH\Views\sayfalar\urunlerimiz.php(2): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: urunlerimiz', 'C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php', 2, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\wamp64\\www\\code\\app\\Views\\sayfalar\\urunlerimiz.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/urunlerimiz', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(129): view('sayfalar/urunlerimiz')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->urunlerimiz()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 17:53:00 --> Failed to look up SRV record "_mongodb._tcp.cluster0.vgcht.mongodb.net": Zaman aşımı süresi sona erdiğinden bu işlem geri çevrildi.
+
+in VENDORPATH\mongodb\mongodb\src\functions.php on line 487.
+ 1 VENDORPATH\mongodb\mongodb\src\functions.php(487): MongoDB\Driver\Manager->selectServer(Object(MongoDB\Driver\ReadPreference))
+ 2 VENDORPATH\mongodb\mongodb\src\Collection.php(909): MongoDB\select_server(Object(MongoDB\Driver\Manager), [...])
+ 3 APPPATH\Controllers\Anasayfa.php(158): MongoDB\Collection->insertMany([...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('2')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 17:53:31 --> Failed to look up SRV record "_mongodb._tcp.cluster0.vgcht.mongodb.net": Zaman aşımı süresi sona erdiğinden bu işlem geri çevrildi.
+
+in VENDORPATH\mongodb\mongodb\src\functions.php on line 487.
+ 1 VENDORPATH\mongodb\mongodb\src\functions.php(487): MongoDB\Driver\Manager->selectServer(Object(MongoDB\Driver\ReadPreference))
+ 2 VENDORPATH\mongodb\mongodb\src\Collection.php(909): MongoDB\select_server(Object(MongoDB\Driver\Manager), [...])
+ 3 APPPATH\Controllers\Anasayfa.php(158): MongoDB\Collection->insertMany([...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('2')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-12-14 17:54:10 --> No suitable servers found (`serverSelectionTryOnce` set): [Failed to resolve 'cluster0-shard-00-00.vgcht.mongodb.net'] [socket timeout calling hello on 'cluster0-shard-00-02.vgcht.mongodb.net:27017'] [socket timeout calling hello on 'cluster0-shard-00-01.vgcht.mongodb.net:27017']
+in VENDORPATH\mongodb\mongodb\src\functions.php on line 487.
+ 1 VENDORPATH\mongodb\mongodb\src\functions.php(487): MongoDB\Driver\Manager->selectServer(Object(MongoDB\Driver\ReadPreference))
+ 2 VENDORPATH\mongodb\mongodb\src\Collection.php(909): MongoDB\select_server(Object(MongoDB\Driver\Manager), [...])
+ 3 APPPATH\Controllers\Anasayfa.php(158): MongoDB\Collection->insertMany([...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->test('2')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
